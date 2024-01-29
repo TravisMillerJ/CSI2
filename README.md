@@ -1,0 +1,1 @@
+Was unable to finish the assignment due to an issue with my family coming up. I was able to get the files to be read and put into arrays, I ran out of time to be able to multiply them and output to matrix3.txt with the multiplication computation.
